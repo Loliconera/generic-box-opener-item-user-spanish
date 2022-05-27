@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "d84be72180fa52ec23bf78737579fc3dbb1c46fcb0f9d3b1a67f96c395a33ddd",
+        "index.js": "9a549bcc0df7192274c0134f339bd965fd5c5e02e80c1f27d67a34e74eeb6f03",
+        "module.json": "3555bd0dab0c8b33aad299b9f4ef67562bceba4796809eb24dc67a721869c84e"
+    },
+    "defs": {
+        "C_GACHA_TRY": 1,
+        "C_PLAYER_LOCATION": 5,
+        "C_USE_ITEM": 3,
+        "S_GACHA_END": 1,
+        "S_GACHA_START": 1,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_SYSTEM_MESSAGE_LOOT_ITEM": 1
+    }
+}

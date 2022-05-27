@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "generic-box-opener-item-user",
+    "author": "Owyn/Loliconera",
+    "description": "Módulo Abre cajas en masa",
+    "options": {
+        "cliName": "Box",
+        "guiName": "Generic Box Opener & Item user"
+    },
+    "servers": ["https://raw.githubusercontent.com/Loliconera/generic-box-opener-item-user-spanish/master/"]
+}
