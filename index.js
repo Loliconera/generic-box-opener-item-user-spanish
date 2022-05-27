@@ -58,7 +58,7 @@ module.exports = function boxOpener(dispatch) {
 			if (scanning) {
 				boxEvent = event;
 				boxEvent.dbid = 0n; // para abrir todas las ranuras de inventario
-				command.message(`Caja establecido en: ${event.id}, procediendo a abrirlo automáticamente con ${ useDelay ? `un retraso mínimo de ${ delay / 1000 } segundos` : "no delay"}`);
+				command.message(`Caja configurada en: ${event.id}, procediendo a abrirlo automáticamente con ${ useDelay ? `un retraso mínimo de ${ delay / 1000 } segundos` : "no delay"}`);
 				scanning = false;
 
 				const d = new Date();
